@@ -13,3 +13,5 @@ Output: Palindrome
 - for loop
 - string indexing
 - conditional statements
+
+Day 38: Find largest number in array using loop
