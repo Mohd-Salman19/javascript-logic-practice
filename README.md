@@ -15,3 +15,10 @@ Output: Palindrome
 - conditional statements
 
 Day 38: Find largest number in array using loop
+
+javascript-dsa-practice
+│
+├ Day-36-reverse-string
+├ Day-37-palindrome
+├ Day-38-largest-number
+└ Day-39-second-largest
