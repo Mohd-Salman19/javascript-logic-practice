@@ -14,6 +14,36 @@ Output: Palindrome
 - string indexing
 - conditional statements
 
+- # Day 40 - Remove Duplicates from Array
+
+## Problem
+Write a JavaScript program to remove duplicate elements from an array.
+
+## Example
+
+Input:
+[1, 2, 3, 2, 4, 1, 5]
+
+Output:
+[1, 2, 3, 4, 5]
+
+## Approach
+
+1. Create an empty array called `unique`.
+2. Loop through the original array.
+3. Check if the element is already in `unique`.
+4. If not present, push it into `unique`.
+5. Return the `unique` array.
+
+## Concepts Used
+
+- Arrays
+- for loop
+- includes() method
+- push() method
+
+
+
 Day 38: Find largest number in array using loop
 
 javascript-dsa-practice
