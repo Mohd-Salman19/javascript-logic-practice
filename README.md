@@ -52,3 +52,35 @@ javascript-dsa-practice
 ├ Day-37-palindrome
 ├ Day-38-largest-number
 └ Day-39-second-largest
+
+
+
+# Day 41 - Factorial (Loop and Recursion)
+
+## Problem
+Write a JavaScript program to calculate factorial of a number.
+
+## Example
+
+Input:
+5
+
+Output:
+120
+
+## Approach 1 (Loop)
+1. Initialize result = 1
+2. Multiply numbers from 1 to n
+3. Return result
+
+## Approach 2 (Recursion)
+1. Base case: if n is 0 or 1 return 1
+2. Return n * factorial(n-1)
+
+## Concepts Used
+
+- for loop
+- recursion
+- functions
+- conditional statements
+
