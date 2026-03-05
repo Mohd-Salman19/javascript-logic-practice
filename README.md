@@ -84,3 +84,29 @@ Output:
 - functions
 - conditional statements
 
+- # Day 42 - Fibonacci Series
+
+## Problem
+Write a JavaScript program to print Fibonacci series.
+
+## Example
+
+Output:
+0 1 1 2 3 5 8 13 21 34
+
+## Approach
+
+1. Initialize two numbers a = 0 and b = 1
+2. Print both numbers
+3. Loop from 2 to n
+4. next = a + b
+5. Print next
+6. Update values (a = b, b = next)
+
+## Concepts Used
+
+- Variables
+- Loop
+- Functions
+- Mathematical logic
+
