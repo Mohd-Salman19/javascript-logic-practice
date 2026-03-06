@@ -110,3 +110,29 @@ Output:
 - Functions
 - Mathematical logic
 
+# Day 43 - Prime Number Check
+
+## Problem
+Write a JavaScript program to check whether a number is prime or not.
+
+## Example
+
+Input:
+7
+
+Output:
+7 is a Prime Number
+
+## Approach
+
+1. If number ≤ 1 → not prime
+2. Loop from 2 to number-1
+3. If number is divisible by any value → not prime
+4. If no divisors found → prime
+
+## Concepts Used
+
+- Functions
+- Loop
+- Modulus operator (%)
+- Conditional statements
