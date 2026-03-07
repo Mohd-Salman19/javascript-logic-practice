@@ -130,6 +130,35 @@ Output:
 3. If number is divisible by any value → not prime
 4. If no divisors found → prime
 
+
+# Day 44 - Count Vowels in a String
+
+## Problem
+Write a JavaScript program to count the number of vowels in a string.
+
+## Example
+
+Input:
+javascript
+
+Output:
+3
+
+## Approach
+
+1. Create a variable to store vowel count.
+2. Define vowels (a, e, i, o, u).
+3. Loop through the string.
+4. Check if the character is a vowel.
+5. Increase count if true.
+
+## Concepts Used
+
+- Strings
+- Loop
+- includes() method
+- Functi
+
 ## Concepts Used
 
 - Functions
