@@ -167,3 +167,26 @@ Output:
 - Conditional statements
 
 - Day 45 count number
+
+# Day 46 - Smallest Number in Array
+
+## Problem
+Find the smallest number in an array.
+
+## Example
+Input:
+[2, 5, 1, 3, 0]
+
+Output:
+0
+
+## Approach
+1. Assume the first element is the smallest.
+2. Loop through the array.
+3. Compare each element with the current smallest value.
+4. Update the smallest value if a smaller number is found.
+
+## Concepts Used
+- Arrays
+- For loop
+- Conditional statements
