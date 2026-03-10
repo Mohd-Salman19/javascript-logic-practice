@@ -190,3 +190,30 @@ Output:
 - Arrays
 - For loop
 - Conditional statements
+# Day 47 - Check Anagram
+
+## Problem
+Check whether two strings are anagrams.
+
+## Example
+
+Input:
+listen, silent
+
+Output:
+Anagram
+
+## Approach
+
+1. Convert strings to arrays using split()
+2. Sort both arrays
+3. Join them back into strings
+4. Compare the two strings
+
+## Concepts Used
+
+- Strings
+- Arrays
+- split()
+- sort()
+- join()
