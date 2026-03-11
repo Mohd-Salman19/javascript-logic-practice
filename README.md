@@ -217,3 +217,28 @@ Anagram
 - split()
 - sort()
 - join()
+
+# Day 48 - Remove Spaces from String
+
+## Problem
+Write a JavaScript program to remove all spaces from a string.
+
+## Example
+
+Input:
+Hello World JavaScript
+
+Output:
+HelloWorldJavaScript
+
+## Approach
+
+1. Take a string input.
+2. Use replaceAll() method to remove spaces.
+3. Return the modified string.
+
+## Concepts Used
+
+- Strings
+- replaceAll() method
+- Functions
