@@ -242,3 +242,29 @@ HelloWorldJavaScript
 - Strings
 - replaceAll() method
 - Functions
+
+# Day 49 - First Non-Repeating Character
+
+## Problem
+Find the first non-repeating character in a string.
+
+## Example
+
+Input:
+javascript
+
+Output:
+j
+
+## Approach
+
+1. Loop through each character.
+2. Count how many times it appears.
+3. If count is 1, return that character.
+4. Stop the loop.
+
+## Concepts Used
+
+- Strings
+- Nested loops
+- Conditional statements
