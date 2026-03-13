@@ -268,3 +268,33 @@ j
 - Strings
 - Nested loops
 - Conditional statements
+
+- # Day 50 - Character Frequency in String
+
+## Problem
+Count how many times each character appears in a string.
+
+## Example
+
+Input:
+hello
+
+Output:
+h:1
+e:1
+l:2
+o:1
+
+## Approach
+
+1. Create an empty object.
+2. Loop through each character.
+3. If the character exists in object, increase count.
+4. Otherwise set count = 1.
+
+## Concepts Used
+
+- Strings
+- Objects
+- Loops
+- Condition statements
