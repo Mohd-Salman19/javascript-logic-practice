@@ -298,3 +298,30 @@ o:1
 - Objects
 - Loops
 - Condition statements
+
+- # Day 51 - Capitalize First Letter of Each Word
+
+## Problem
+Capitalize the first letter of every word in a string.
+
+## Example
+
+Input:
+hello world javascript
+
+Output:
+Hello World Javascript
+
+## Approach
+
+1. Split the string into words.
+2. Convert the first letter of each word to uppercase.
+3. Join the words back into a sentence.
+
+## Concepts Used
+
+- Strings
+- split()
+- toUpperCase()
+- slice()
+- join()
