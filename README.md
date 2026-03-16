@@ -325,3 +325,30 @@ Hello World Javascript
 - toUpperCase()
 - slice()
 - join()
+
+- # Day 52 - Find Duplicate Elements in Array
+
+## Problem
+Find duplicate elements in an array.
+
+## Example
+
+Input:
+[1,2,3,4,2,5,3]
+
+Output:
+[2,3]
+
+## Approach
+
+1. Loop through array elements.
+2. Compare each element with the rest of the array.
+3. If same element appears again, it is duplicate.
+4. Store duplicates in another array.
+
+## Concepts Used
+
+- Arrays
+- Nested loops
+- includes()
+- push()
