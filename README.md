@@ -352,3 +352,29 @@ Output:
 - Nested loops
 - includes()
 - push()
+
+# Day 53 - Find Missing Number in Array
+
+## Problem
+Find the missing number in an array containing numbers from 1 to n.
+
+## Example
+
+Input:
+[1,2,3,5]
+
+Output:
+4
+
+## Approach
+
+1. Calculate total sum of numbers from 1 to n.
+2. Calculate sum of elements in the array.
+3. Subtract array sum from total sum.
+4. The result is the missing number.
+
+## Concepts Used
+
+- Arrays
+- Loops
+- Mathematical formula
