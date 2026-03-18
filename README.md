@@ -378,3 +378,28 @@ Output:
 - Arrays
 - Loops
 - Mathematical formula
+
+- # Day 54 - Rotate Array by One Position
+
+## Problem
+Rotate an array by one position to the right.
+
+## Example
+
+Input:
+[1,2,3,4,5]
+
+Output:
+[5,1,2,3,4]
+
+## Approach
+
+1. Store last element.
+2. Shift all elements to the right.
+3. Place last element at first position.
+
+## Concepts Used
+
+- Arrays
+- Loops
+- Index shifting
