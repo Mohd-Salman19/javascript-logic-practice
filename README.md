@@ -403,3 +403,21 @@ Output:
 - Arrays
 - Loops
 - Index shifting
+
+# Day 55 - Check Sorted Array
+
+## Problem
+Check if an array is sorted in ascending order.
+
+## Example
+Input: [1,2,3,4,5]  
+Output: Sorted
+
+## Approach
+Compare each element with the next.  
+If any element is greater → not sorted.
+
+## Concepts
+- Arrays
+- Loop
+- Conditions
