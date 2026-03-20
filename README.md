@@ -366,18 +366,6 @@ Input:
 Output:
 4
 
-## Approach
-
-1. Calculate total sum of numbers from 1 to n.
-2. Calculate sum of elements in the array.
-3. Subtract array sum from total sum.
-4. The result is the missing number.
-
-## Concepts Used
-
-- Arrays
-- Loops
-- Mathematical formula
 
 - # Day 54 - Rotate Array by One Position
 
@@ -392,18 +380,6 @@ Input:
 Output:
 [5,1,2,3,4]
 
-## Approach
-
-1. Store last element.
-2. Shift all elements to the right.
-3. Place last element at first position.
-
-## Concepts Used
-
-- Arrays
-- Loops
-- Index shifting
-
 # Day 55 - Check Sorted Array
 
 ## Problem
@@ -413,11 +389,11 @@ Check if an array is sorted in ascending order.
 Input: [1,2,3,4,5]  
 Output: Sorted
 
-## Approach
-Compare each element with the next.  
-If any element is greater → not sorted.
+# Day 56 - Max Consecutive Ones
 
-## Concepts
-- Arrays
-- Loop
-- Conditions
+## Problem
+Find maximum number of consecutive 1s in an array.
+
+## Example
+Input: [1,1,0,1,1,1]  
+Output: 3
