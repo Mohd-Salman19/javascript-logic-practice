@@ -397,3 +397,12 @@ Find maximum number of consecutive 1s in an array.
 ## Example
 Input: [1,1,0,1,1,1]  
 Output: 3
+
+# Day 57 - Single Number
+
+## Problem
+Find the element that appears only once.
+
+## Example
+Input: [4,1,2,1,2]  
+Output: 4
