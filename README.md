@@ -406,3 +406,14 @@ Find the element that appears only once.
 ## Example
 Input: [4,1,2,1,2]  
 Output: 4
+# Day 58 - Sort Colors
+
+## Problem
+Sort array of 0s, 1s, and 2s.
+
+## Example
+Input: [2,0,2,1,1,0]  
+Output: [0,0,1,1,2,2]
+
+## Approach
+Use Dutch National Flag algorithm with 3 pointers.
