@@ -417,3 +417,12 @@ Output: [0,0,1,1,2,2]
 
 ## Approach
 Use Dutch National Flag algorithm with 3 pointers.
+
+# Day 59 - Majority Element
+
+## Problem
+Find element appearing more than n/2 times.
+
+## Example
+Input: [2,2,1,1,1,2,2]  
+Output: 2
