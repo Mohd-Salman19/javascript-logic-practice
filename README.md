@@ -426,3 +426,19 @@ Find element appearing more than n/2 times.
 ## Example
 Input: [2,2,1,1,1,2,2]  
 Output: 2
+
+# Day 60 - Maximum Subarray
+
+## Problem
+Find maximum sum of a subarray.
+
+## Example
+Input: [-2,1,-3,4,-1,2,1,-5,4]  
+Output: 6
+
+## Approach
+Use Kadane’s Algorithm.
+
+## Concepts
+- Arrays
+- Greedy
