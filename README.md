@@ -436,6 +436,15 @@ Find maximum sum of a subarray.
 Input: [-2,1,-3,4,-1,2,1,-5,4]  
 Output: 6
 
+# Day 61 - Maximum Product Subarray
+
+## Problem
+Find maximum product of a subarray.
+
+## Example
+Input: [2,3,-2,4]  
+Output: 6
+
 ## Approach
 Use Kadane’s Algorithm.
 
