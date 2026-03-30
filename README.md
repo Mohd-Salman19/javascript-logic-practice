@@ -451,3 +451,19 @@ Use Kadane’s Algorithm.
 ## Concepts
 - Arrays
 - Greedy
+
+# Day 62 - Merge Sorted Arrays
+
+## Problem
+Merge two sorted arrays into one.
+
+## Example
+Input: [1,2,3,0,0,0], [2,5,6]  
+Output: [1,2,2,3,5,6]
+
+## Approach
+Start from end and compare elements.
+
+## Concepts
+- Arrays
+- Two pointers
